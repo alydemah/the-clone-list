@@ -19,7 +19,6 @@
   </p>
 </div>
 
+## Table of Contents
 
-
-# the-clone-list
-A curated list of popular platform clones.
+<!--lint disable awesome-list-item-->
